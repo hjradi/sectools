@@ -1,8 +1,4 @@
 #!/bin/bash
-#Copyright 2021 Active Countermeasures
-#Based on an idea from Chris Brenton
-#Written by Bill Stearns bill@activecountermeasures.com
-#Released under the GPL
 #V0.2
 
 Usage () {
